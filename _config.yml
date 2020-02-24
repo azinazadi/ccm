@@ -15,11 +15,11 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -100,3 +100,33 @@ theme: edinburgh
 deploy:
   type: ''
 
+responsive_images:
+  pattern: '**/*.+(png|jpg|jpeg)'
+  sizes:
+    1920:
+      width: 1920
+      withoutEnlargement: true
+    1600:
+      width: 1600
+      withoutEnlargement: true
+    1366:
+      width: 1366
+      withoutEnlargement: true
+    1024:
+      width: 1024
+      withoutEnlargement: true
+    768:
+      width: 768
+      withoutEnlargement: true
+    640:
+      width: 640
+      withoutEnlargement: true
+    400:
+      width: 400
+      withoutEnlargement: true
+    320:
+      width: 320
+      withoutEnlargement: true
+    160:
+      width: 160
+      withoutEnlargement: true

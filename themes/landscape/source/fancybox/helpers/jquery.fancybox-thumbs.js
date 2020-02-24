@@ -1,6 +1,6 @@
  /*!
  * Thumbnail helper for fancyBox
- * version: 1.0.7 (Mon, 01 Oct 2012)
+ * version: backpacking-tales.0.7 (Mon, 01 Oct 2012)
  * @requires fancyBox v2.0 or later
  *
  * Usage:

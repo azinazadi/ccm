@@ -1,0 +1,10 @@
+<div class="gallery">
+    <% if (photos.length){ %>
+        <%
+        photos.forEach(function(photo) {
+        %>
+            <%- photo %>
+        <% }); %>
+    <% } %>
+
+</div>

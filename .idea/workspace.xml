@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce76acd-8950-40c2-8b23-64214054c5c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/res_img.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/res-img.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/top-gal.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hello-World-0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +35,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XoNB0SZ50XthlttoSHmWyPq0aL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/images/galleries/1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\cocoon\website\hexo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\cocoon\website\hexo\source\images\galleries\1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +93,29 @@
       <option name="presentableId" value="Default" />
       <updated>1581708347115</updated>
       <workItem from="1581708348321" duration="1481000" />
+      <workItem from="1581709844138" duration="1712000" />
+      <workItem from="1581956164291" duration="391000" />
+      <workItem from="1582184222333" duration="2500000" />
+      <workItem from="1582278377644" duration="602000" />
+      <workItem from="1582307384233" duration="8712000" />
+      <workItem from="1582572577443" duration="1278000" />
+      <workItem from="1582581123712" duration="6983000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1581709947627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581709947627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1581709982620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581709982620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,15 +126,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/edinburgh" />
     </ignored-roots>
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>

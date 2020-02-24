@@ -1,6 +1,6 @@
 /*!
  * Media helper for fancyBox
- * version: 1.0.6 (Fri, 14 Jun 2013)
+ * version: backpacking-tales.0.6 (Fri, 14 Jun 2013)
  * @requires fancyBox v2.0 or later
  *
  * Usage:
