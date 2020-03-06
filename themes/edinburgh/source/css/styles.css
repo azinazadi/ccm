@@ -83,12 +83,11 @@ h1, h2, h3 {
 }
 
 .navbar-toggler-right {
-	right: 0rem;
+	right: 0;
 }
 
 .portfolio-img {
 	width: 100%;
-	max-height: 250px;
 	display: block;
 	object-fit: cover;
 }

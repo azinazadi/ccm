@@ -2,28 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce76acd-8950-40c2-8b23-64214054c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/res_img.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/res-img.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/top-gal.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/css/cocoon.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/thumb.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hello-World-0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/res_img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,10 @@
       <workItem from="1582278377644" duration="602000" />
       <workItem from="1582307384233" duration="8712000" />
       <workItem from="1582572577443" duration="1278000" />
-      <workItem from="1582581123712" duration="6983000" />
+      <workItem from="1582581123712" duration="7859000" />
+      <workItem from="1582732492243" duration="2120000" />
+      <workItem from="1583439153319" duration="74000" />
+      <workItem from="1583486465430" duration="6683000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1581709947627</created>
@@ -115,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581709982620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="responsive images&#10;image gallery">
+      <created>1582588240042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582588240042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +149,7 @@
       <path value="$PROJECT_DIR$/themes/edinburgh" />
     </ignored-roots>
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="responsive images&#10;image gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive images&#10;image gallery" />
   </component>
 </project>
