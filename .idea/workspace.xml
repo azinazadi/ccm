@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce76acd-8950-40c2-8b23-64214054c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/datenschutz/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/thumb.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/impressum/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/foot.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/azin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/hp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/my.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css/cocoon.sass" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/cocoon.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/layout.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +92,7 @@
       <workItem from="1583439153319" duration="74000" />
       <workItem from="1583486465430" duration="8646000" />
       <workItem from="1584032031253" duration="10000" />
-      <workItem from="1595498629870" duration="3572000" />
+      <workItem from="1595498629870" duration="6077000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1581709947627</created>
@@ -126,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583493481683</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reformat">
+      <created>1595503683172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595503683173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +156,7 @@
     <MESSAGE value="a" />
     <MESSAGE value="responsive images&#10;image gallery" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat" />
   </component>
 </project>

@@ -13,9 +13,7 @@ timezone: ''
 
 # Menu
 menu:
-  Portfolio: /
   About: /about
-  Contact: /contact
   Instagram: https://www.instagram.com/cocoon.media1
 
 footer_menu:

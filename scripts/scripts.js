@@ -37,7 +37,7 @@ hexo.extend.helper.register('cover_img', function(slug, classes= ''){
 
 
 hexo.extend.helper.register('res_img', function(...args) {
-    return res_img(args);
+    return res_img(...args);
 });
 
 hexo.extend.helper.register('gallery', function(slug) {
