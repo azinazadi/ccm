@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce76acd-8950-40c2-8b23-64214054c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/css/cocoon.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/gallery/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/thumb.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/datenschutz/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/posts/backpacking-tales/thumb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/impressum/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/foot.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/res_img.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/backpacking-tales.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/galleries/backpacking-tales/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/head.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-full.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/cocoon.sass" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/cocoon.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/footer.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/_partial/portfolio-index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/edinburgh/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/layout/layout.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/edinburgh/source/css/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,17 +30,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/images/galleries/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/edinburgh/layout/_partial" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Twig" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\cocoon\website\hexo\themes\edinburgh\layout\_partial" />
+      <recent name="E:\cocoon\website\hexo\source\images\galleries\1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\cocoon\website\hexo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\cocoon\website\hexo\source\images\galleries\1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -101,7 +94,9 @@
       <workItem from="1582581123712" duration="7859000" />
       <workItem from="1582732492243" duration="2120000" />
       <workItem from="1583439153319" duration="74000" />
-      <workItem from="1583486465430" duration="6683000" />
+      <workItem from="1583486465430" duration="8646000" />
+      <workItem from="1584032031253" duration="10000" />
+      <workItem from="1595498629870" duration="3572000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1581709947627</created>
@@ -124,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582588240042</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index">
+      <created>1583493481683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583493481683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +152,7 @@
     </ignored-roots>
     <MESSAGE value="a" />
     <MESSAGE value="responsive images&#10;image gallery" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive images&#10;image gallery" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
 </project>

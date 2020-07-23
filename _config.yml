@@ -18,6 +18,9 @@ menu:
   Contact: /contact
   Instagram: https://www.instagram.com/cocoon.media1
 
+footer_menu:
+  Impressum: /impressum
+  Data Privacy Statement: /datenschutz
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -113,7 +116,7 @@ node_sass:
   sourceComments: false
 
 responsive_images:
-  pattern: '**/*.+(png|jpg|jpeg)'
+  pattern: '**/*.+(png|jpg|jpeg|gif)'
   sizes:
     1920:
       width: 1920
